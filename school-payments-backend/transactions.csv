@@ -1,0 +1,5 @@
+collect_id,school_id,gateway,order_amount,transaction_amount,status,custom_order_id
+101,1,PayPal,1000,950,Completed,ORD001
+102,1,Stripe,1500,1450,Pending,ORD002
+103,2,PhonePe,2000,2000,Failed,ORD003
+104,3,Razorpay,2500,2450,Completed,ORD004
